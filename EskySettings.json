@@ -1,19 +1,19 @@
 {
-    "rigToUse": 1,
+    "rigToUse": 0,
     "targetFrameRate": 120,
     "reprojectionSettings": 0,
     "nativeShaderToUse": 0,
     "myOffsets": {
         "TranslationEyeToLeapMotion": {
-            "x": 0.003000000026077032,
-            "y": 0.05000000074505806,
-            "z": 0.0430000014603138
+            "x": -0.022163480520248414,
+            "y": 0.04554388299584389,
+            "z": 0.10584830492734909
         },
         "RotationEyeToLeapMotion": {
-            "x": 0.09584571421146393,
-            "y": 0.0,
-            "z": 0.0,
-            "w": 0.9953962564468384
+            "x": -0.06402252614498139,
+            "y": 0.047433145344257358,
+            "z": -0.05434427782893181,
+            "w": 0.9953380823135376
         },
         "TranslationFromTracker": {
             "x": 0.0,
@@ -257,8 +257,8 @@
         }
     },
     "displayWindowSettings": {
-        "DisplayXLoc": 0,
-        "DisplayYLoc": 1080,
+        "DisplayXLoc": 1050,
+        "DisplayYLoc": 0,
         "DisplayWidth": 2880,
         "DisplayHeight": 1600,
         "EyeTextureWidth": 1600,

@@ -15,8 +15,8 @@ MonoBehaviour:
   isCustomProfile: 1
   leapControllerOrientation: 2
   leapControllerOffset: {x: 0, y: -0.2, z: 0.2}
-  enterPinchDistance: 0.02
-  exitPinchDistance: 0.05
+  enterPinchDistance: 0.015
+  exitPinchDistance: 0.04
   rigToUse: 0
   customRig: {fileID: 0}
   sensorOffsets:
